@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "path": "/",
+      "title": "Dashboard",
+      "icon": "home",
+      "type": "link",
+      "active": true
+    },
+    {
+      "path": "https://pixelstrap.freshdesk.com/support/home",
+      "title": "Raise Support",
+      "icon": "headphones",
+      "type": "redirect",
+      "active": true
+    },
+    {
+      "path": "",
+      "title": "Documentation",
+      "icon": "file-text",
+      "type": "redirect",
+      "active": true
+    }
+  ]
+}
